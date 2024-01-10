@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">265624849353</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoGpP8TZDbUqm6dr9hEO-7Q5tNgD9h1O8</string>
+    <string name="google_app_id" translatable="false">1:265624849353:android:3c5a1861f9ef8d5be13618</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoGpP8TZDbUqm6dr9hEO-7Q5tNgD9h1O8</string>
+    <string name="google_storage_bucket" translatable="false">ambulanceserviceapp-a092f.appspot.com</string>
+    <string name="project_id" translatable="false">ambulanceserviceapp-a092f</string>
+</resources>
